@@ -1,0 +1,48 @@
+@require 'variables'
+
+*
+	font-family 'Lato', sans-serif
+
+html
+	overflow-y:scroll
+	height 100%
+
+body
+	height 100%
+
+#__layout
+	height 100%
+
+#__nuxt
+	height 100%
+
+a:focus
+	outline brand-green auto 5px
+	outline-color brand-green
+	outline-style auto
+	outline-width 5px
+
+.btn-primary
+	background-color brand-green
+	border-color brand-green
+	&:active
+		background-color brand-green
+		border-color brand-blue
+	&:focus
+		box-shadow 0 0 0 2px rgba(20, 73, 147, 0.5)
+
+.form-control:focus
+	border-color brand-blue
+
+h1, h2
+	margin-top 15px
+	color brand-blue
+
+/**
+ * Transitions
+ */
+.page-enter-active, .page-leave-active
+	transition opacity .3s
+
+.page-enter, .page-leave-to
+	opacity 0
