@@ -1,18 +1,14 @@
-## Build Setup
+# Da-Lee Website
+[https://www.daleedustcontrol.com](<https://www.daleedustcontrol.com/>)
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+## Tools
+- [Vue](<https://vuejs.org/>)
+- [Vuex](<https://vuex.vuejs.org/>)
+- [Bootstrap](<https://getbootstrap.com/>)
+- [Stylus](<http://stylus-lang.com/>)
+- [Babel](<https://babeljs.io/>)
 
-# serve with hot reloading at localhost:3000
-$ npm run dev
+## License
+[MIT License](./LICENSE)
 
-# build for production and launch the server
-$ npm run build
-$ npm start
-
-# generate a static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://nuxtjs.org).
+Copyright © 2019 Richard Ayotte

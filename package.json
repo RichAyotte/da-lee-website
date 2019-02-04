@@ -44,6 +44,8 @@
 		"stylus": "^0.54.5",
 		"stylus-loader": "^3.0.2"
 	},
+  	"repository": "https://github.com/RichAyotte/da-lee-website.git",
+  	"license": "MIT",
 	"name": "da-lee-website",
 	"private": true,
 	"version": "1.0.0",
