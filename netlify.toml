@@ -1,0 +1,8 @@
+[build]
+  publish = "dist/"
+  command = "echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc && yarn build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
