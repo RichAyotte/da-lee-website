@@ -11,6 +11,7 @@
 	in the UK for over 10 years.</p>
 
 	<ul>
+	<li>Can be open to traffic instantly</li>
 	<li>Offers a first time permanent reinstatement</li>
 	<li>Ideal for countries with changeable weather patterns</li>
 	<li>Manholes repaired with this system can br open to traffic within an hour</li>
@@ -18,8 +19,15 @@
 	<li>No split liability </li>
 	</ul>
 
-	<p>Get it right the first time! <b-link target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=Lrru74HwHOw">Watch the installation >>></b-link> </p>
+	<p>Get it right the first time! <b-link target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=_04b_BYcVAI">Watch the installation >>></b-link> </p>
 
+		<b-link
+			rel="noopener noreferrer"
+			target="_blank"
+			href="/resources/sds/Da-Lee Manhole Installation System.pdf"
+			>>>> Data & Safety Sheet</b-link
+		>
+		<br />
 	<as-product-image />
 </div>
 </template>

@@ -1,34 +1,59 @@
 <template>
-<div>
-	<h1><as-title-text/></h1>
-
-	<ul>
-	<li>30-32% LIQUIDOW™ Calcium Chloride used for pre-wetting and Direct Liquid
-	Application (DLA)</li>
-
-	<li>Organic Based Performance Enhancer (OBPE) available to increase
-	effectiveness</li>
-
-	<li>Pre-wetting rock salt and abrasives provides faster ice melting, reduced
-	bounce &amp; scatter and more effective performance at lower temperatures</li>
-
-	<li>Direct Liquid Application involves spraying a thin film of product onto
-	the paved surface prior to an event and helps to prevent snow/ice from
-	adhering to the road surface – plowing is easier and gets the surface back
-	to bare pavement faster</li>
-
-	<li>Products can be used on stockpiles to keep materials free flowing</li>
-
-	<li>23% Sodium Chloride Brine is available </li>
-	</ul>
-</div>
+	<div>
+		<h1><as-title-text /></h1>
+		<h4>LIQUIDOW 27-32%</h4>
+		<ul>
+			<li>
+				High Value Prewetting, Anti-Icing and DLA (Direct Liquid
+				Application) liquid.
+			</li>
+			<li>
+				Fast ice-melting action with low-temperature performance (as low
+				as -40°)
+			</li>
+			<li>Overall reduced ice-melting cost</li>
+		</ul>
+		<h4>PROTEK -50°C</h4>
+		<ul>
+			<li>
+				Engineered liquid for Prewetting, Anti-Icing and DLA (Direct
+				Liquid Application).  Scientifically tested and proven,
+				PROTEK-50°C® provides maximum performance while minimizing
+				environmental impact.
+			</li>
+			<li>
+				PROTEK-50°C® melts faster and at lower temperatures while
+				reducing your costs and your salt consumption.
+			</li>
+			<li>
+				Modified to reduce corrosion (inhibitors) and enhance melt rate
+				performance (freeze points as low as -50° C)
+			</li>
+		</ul>
+		<h4>PROTEK WTS - Winter Treating Agent for Salt &amp; Sand</h4>
+		<ul>
+			<li>
+				Specifically formulated with rheology modifying natural organic
+				fibers to enhance (Anti-Leaching / Spalling) sand and salt
+				stockpiles.
+			</li>
+			<li>
+				Custom Mix Designs available for unique climate, aggregate and
+				performance objectives.
+			</li>
+			<li>
+				Corrosion inhibitor significantly reduces wear to equipment and
+				concrete, saving trucks, infrastructure and deicing surface.
+			</li>
+		</ul>
+	</div>
 </template>
 
 <script>
-import asTitleText from '~/components/as-title-text'
+import asTitleText from "~/components/as-title-text";
 export default {
 	components: {
 		asTitleText
 	}
-}
+};
 </script>

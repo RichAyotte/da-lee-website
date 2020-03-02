@@ -13,7 +13,20 @@
 	<li>Simple and economical to apply</li>
 	</ul>
 
-	<p>Packaging: 750ml / 26. fl oz. can</p>
+	<p>Packaging: 750ml</p>
+		<b-link
+			rel="noopener noreferrer"
+			target="_blank"
+			href="/resources/sds/SCJ_Datasheet_Da_Lee.pdf"
+			>>>> Data & Safety Sheet</b-link
+		>
+		<br />
+		<b-link
+			rel="noopener noreferrer"
+			target="_blank"
+			href="https://www.youtube.com/watch?v=1R1U8OxDj6U"
+			>>>> Watch Video</b-link
+		>
 	<as-product-image />
 </div>
 </template>

@@ -77,7 +77,7 @@ const pavementProductsItems = [
 		}
 	}
 	, {
-		label: `Instant Road Repair 6mm Cold Lay Asphalt Concrete`
+		label: `Permanent Road Repair Cold Lay Asphalt Concrete`
 		, route: `/services/pavement-products/instant-road-repair-6mm-cold-lay-asphalt`
 		, imageHeader: {
 			alt: `Da-Lee road repair added to damaged area of road with car tire driving over the quickly repaired area`
@@ -196,19 +196,19 @@ const calciumChlorideItems = [
 
 const wasteDisposalItems = [
 	{
+		label: `Liquid/Solid Industrial Waste Transfer`
+		, route: `/services/waste-disposal-recycling/liquid-industrial-waste-transfer-treatment`
+		, imageHeader: {
+			alt: `Fleet of Da-Lee industrial waste transport trucks in the waste and treatment area`
+			, src: `photos/services/liquid-waste-transfer-&-treatment-header.jpg`
+		}
+	}
+	, {
 		label: `Wastewater Treatment`
 		, route: `/services/waste-disposal-recycling/wastewater-treatment`
 		, imageHeader: {
 			alt: `Da-Lee state-of-the-art wastewater treatment facility`
 			, src: `photos/services/waste-water-treatment-header.jpg`
-		}
-	}
-	, {
-		label: `Liquid Industrial Waste Transfer &amp; Treatment`
-		, route: `/services/waste-disposal-recycling/liquid-industrial-waste-transfer-treatment`
-		, imageHeader: {
-			alt: `Fleet of Da-Lee industrial waste transport trucks in the waste and treatment area`
-			, src: `photos/services/liquid-waste-transfer-&-treatment-header.jpg`
 		}
 	}
 	, {
@@ -220,23 +220,15 @@ const wasteDisposalItems = [
 		}
 	}
 	, {
-		label: `Container Waste Processing`
-		, route: `/services/waste-disposal-recycling/container-waste-processing`
+		label: `Industrial Services`
+		, route: `/services/waste-disposal-recycling/industrial-services`
 		, imageHeader: {
-			alt: `Da-Lee area stacked with containers ready for waste processing`
-			, src: `photos/services/container-waste-processing-header.jpg`
+			alt: `Aerial view of Da-Lee industrial services area`
+			, src: `photos/services/industrial-services-header.jpg`
 		}
 	}
 	, {
-		label: `Used Oil Recovery & Recycling`
-		, route: `/services/waste-disposal-recycling/used-oil-recovery-recycling`
-		, imageHeader: {
-			alt: `Da-Lee crew draining used oil from oil recovery truck tanks ready for recycling`
-			, src: `photos/services/oil-recovery--&-recycling-header.jpg`
-		}
-	}
-	, {
-		label: `Hydro-excavation`
+		label: `Hydro-excavation/Slurry Dewatering & Recycling`
 		, route: `/services/waste-disposal-recycling/hydro-excavation`
 		, imageHeader: {
 			alt: `Hydro excavation aerial view of the Da-Lee slurries and mud collection area`
@@ -245,25 +237,17 @@ const wasteDisposalItems = [
 
 	}
 	, {
-		label: `Slurry Dewatering &amp; Recycling`
-		, route: `/services/waste-disposal-recycling/slurry-dewatering-and-recycling`
+		label: `Drum/Containerized Waste Processing`
+		, route: `/services/waste-disposal-recycling/container-waste-processing`
 		, imageHeader: {
-			alt: `Da-Lee crew person cleaning-up after delivery of muds and slurries from a hydro-vac truck drop off`
-			, src: `photos/services/slurry-dewatering-&-recycling-header.jpg`
+			alt: `Da-Lee area stacked with containers ready for waste processing`
+			, src: `photos/services/container-waste-processing-header.jpg`
 		}
 	}
 ]
 
 const wasteTransportationItems = [
 	{
-		label: `Tanker Truck Services`
-		, route: `/services/waste-transportation/tanker-truck-services`
-		, imageHeader: {
-			alt: `Fleet of Da-Lee tanker truck trucks in the truck yard ready to service clients`
-			, src: `photos/services/tanker-truck-services-header.jpg`
-		}
-	}
-	, {
 		label: `Vacuum Truck Services`
 		, route: `/services/waste-transportation/vacuum-truck-services`
 		, imageHeader: {
@@ -272,27 +256,11 @@ const wasteTransportationItems = [
 		}
 	}
 	, {
-		label: `Powervac Services`
-		, route: `/services/waste-transportation/powervac-services`
-		, imageHeader: {
-			alt: `Da-Lee powervac truck in the Da-Lee truck yard ready to service clients`
-			, src: `photos/services/powervac-services-header.jpg`
-		}
-	}
-	, {
-		label: `Roll Off Trucks & 20 Yard Boxes`
-		, route: `/services/waste-transportation/roll-off-trucks-20-yard-boxes`
-		, imageHeader: {
-			alt: `Da-Lee roll off truck with 20 yard roll off box in the Da-Lee truck yard ready to service clients`
-			, src: `photos/services/rolloff-trucks-header.jpg`
-		}
-	}
-	, {
-		label: `Frac Tanks & Vacuum Boxes`
-		, route: `/services/waste-transportation/frac-tanks-vacuum-boxes`
+		label: `Broker Services`
+		, route: `/services/waste-transportation/broker-services`
 		, imageHeader: {
 			alt: `Fleet of Da-Lee Frac tank trucks`
-			, src: `photos/services/frac-tanks-header.jpg`
+			, src: `photos/services/broker-services-header.jpg`
 		}
 	}
 ]
@@ -309,14 +277,6 @@ const professionalServicesItems = [
 	, {
 		label: `HWIN Registration`
 		, route: `/services/professional-services/hwin-registration`
-		, imageHeader: {
-			alt: `Aerial photo of Da-Lee employees at head office`
-			, src: 'photos/services/professional-services-header.jpg'
-		}
-	}
-	, {
-		label: `Waste Transfer & Exporting`
-		, route: `/services/professional-services/waste-transfer-exporting`
 		, imageHeader: {
 			alt: `Aerial photo of Da-Lee employees at head office`
 			, src: 'photos/services/professional-services-header.jpg'

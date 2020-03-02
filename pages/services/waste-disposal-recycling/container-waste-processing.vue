@@ -6,8 +6,6 @@
 	hazardous</li>
 	<li>Our team can show you proper labelling, storage procedures, keeping you
 	compliant with all MOE regulations</li>
-	<li>Da-Lee will also pick up all of your container waste on a pre-arranged
-	schedule to help you stay organized and stay on budget</li>
 	<li>Da-Lee will pick up all of your totes, drums, pails or lab packs and
 	dispose of them safely and in accordance with all MOE regulations</li>
 	<li>Our facility in Stoney Creek is licensed to receive and process

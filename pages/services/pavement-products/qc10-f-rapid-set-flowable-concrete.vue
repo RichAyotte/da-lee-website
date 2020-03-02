@@ -1,33 +1,48 @@
 <template>
-<div>
-	<h1><as-title-text/></h1>
-	<p>A fibre modified concrete for backfilling around manhole frames and
-	gullies and can also be used for surface repairs.</p>
+	<div>
+		<h1><as-title-text /></h1>
+		<p>
+			A fibre modified concrete for backfilling around manhole frames and
+			gullies and can also be used for surface repairs.
+		</p>
 
-	<ul>
-	<li>Fibre modified</li>
-	<li>Rapid set</li>
-	<li>Open to traffic: 90 minutes</li>
-	<li>Workability: 5-10 minutes</li>
-	<li>Set time: 10-20 minutes</li>
-	<li>Depth: 30-500mm / 1.20-20 inches</li>
-	<li>2900 PSI compressive strength after 90 minutes</li>
-	<li>8700 PSI final strength</li>
-	<li>Shrinkage compensated</li>
-	</ul>
+		<ul>
+			<li>Fibre modified</li>
+			<li>Rapid set</li>
+			<li>Open to traffic: 60 minutes</li>
+			<li>Workability: 5-10 minutes</li>
+			<li>Set time: 10-20 minutes even at minus temperatures</li>
+			<li>Depth: 30-500mm</li>
+			<li>Compressive strength after 90 minutes 20 MPa</li>
+			<li>PSI final strength 65 MPa</li>
+			<li>Shrinkage compensated</li>
+		</ul>
 
-	<p>Packaging: 25kg / 55lb</p>
-	<as-product-image />
-</div>
+		<p>Packaging: 25kg / 55lb</p>
+		<b-link
+			rel="noopener noreferrer"
+			target="_blank"
+			href="/resources/sds/QC10 F datasheet Da-Lee.pdf"
+			>>>> Data & Safety Sheet</b-link
+		>
+		<br />
+		<b-link
+			rel="noopener noreferrer"
+			target="_blank"
+			href="https://www.youtube.com/watch?v=nnkmHw18Ags"
+			>>>> Watch Video</b-link
+		>
+		<as-product-image />
+	</div>
 </template>
 
 <script>
-import asProductImage from '~/components/as-product-image.vue'
-import asTitleText from '~/components/as-title-text'
+import asProductImage from "~/components/as-product-image.vue";
+import asTitleText from "~/components/as-title-text";
 export default {
 	components: {
-		asTitleText
-		, asProductImage
+		asTitleText,
+		asProductImage
 	}
-}
+};
 </script>

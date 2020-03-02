@@ -8,7 +8,6 @@
 		facilities</li>
 		<li>Our fleet of bulk liquid tankers is available for hire to transport
 		your liquid materials</li>
-		<li>Our company can carry non-hazardous and hazardous materials</li>
 	</ul>
 </div>
 </template>
