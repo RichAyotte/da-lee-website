@@ -1,6 +1,6 @@
 [build]
   publish = "dist/"
-  command = "echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc && yarn build"
+  command = "echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc && yarn generate"
 
 [[redirects]]
   from = "/*"
