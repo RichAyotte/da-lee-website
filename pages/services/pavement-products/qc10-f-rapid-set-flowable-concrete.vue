@@ -3,7 +3,7 @@
 		<h1><as-title-text /></h1>
 		<p>
 			A fibre modified concrete for backfilling around manhole frames and
-			gullies and can also be used for surface repairs.
+			catch basins and can also be used for surface repairs.
 		</p>
 
 		<ul>
@@ -23,7 +23,7 @@
 			rel="noopener noreferrer"
 			target="_blank"
 			href="/resources/sds/QC10 F datasheet Da-Lee.pdf"
-			>>>> Data & Safety Sheet</b-link
+			>>>> Safety Data Sheet</b-link
 		>
 		<br />
 		<b-link

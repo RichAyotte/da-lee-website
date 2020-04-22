@@ -1,9 +1,9 @@
 <template>
 <div>
 	<h1><as-title-text/></h1>
-	<p>Da-Lee offers premium products with Virgin Oil and LIQUIDOW&trade; Calcium
-	Chloride to maintain a dust free environment in riding arenas and rings.
-	</p>
+	<p>Da-Lee offers premium products with Virgin Oil, LIQUIDOW&trade; Calcium
+	Chloride and DOWFLAKE&trade; Calcium Chloride to maintain a dust free environment
+	in riding arenas and rings. </p>
 
 	<ul>
 		<li>Long Lasting Results</li>

@@ -287,79 +287,50 @@
 					<ul>
 						<li>
 							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/Permanent Road Repair_Datasheet_Da_Lee.pdf"
-								>Instant Road Repair 6mm Cold Lay Asphalt
-								Concrete</b-link
-							>
+							rel="noopener noreferrer"
+							target="_blank"
+							href="resources/INSTARMAC INSTANT ROAD REPAIR (DA-LEE PAVEMENT PRODUCTS LP) - SDS20429.pdf"
+							>Instarmac Instant Road Repair</b-link>
 						</li>
+
 						<li>
 							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/Permanent Road Repair_Datasheet_Da_Lee.pdf"
-								>Permanent Pothole Repair</b-link
-							>
+							rel="noopener noreferrer"
+							target="_blank"
+							href="resources/INSTARMAC PERMANENT POTHOLE REPAIR (DA-LEE PAVEMENT PRODUCTS LP) - SDS20428.pdf"
+							>Instarmac Permanent Pothole Repair</b-link>
 						</li>
+
 						<li>
 							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/SCJ_Datasheet_Da_Lee.pdf"
-								>SCJ Seal & Tack Coat Spray</b-link
-							>
+							rel="noopener noreferrer"
+							target="_blank"
+							href="resources/SCJ (DA-LEE PAVEMENT PRODUCTS LP) - SDS20430.pdf"
+							>SCJ Seal & Tack Coat Spray</b-link>
 						</li>
+
 						<li>
 							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/Instaband_ECO_Datasheet Print Version.pdf"
-								>Instaband ECO® Thermoplastic Overbanding
-								Tape</b-link
-							>
+							rel="noopener noreferrer"
+							target="_blank"
+							href="resources/ULTRACRETE ENVIROBED HA 104 (DA-LEE PAVEMENT PRODUCTS LP) - SDS20432.pdf"
+							>Ultracrete Envirobed HA104</b-link>
 						</li>
+
 						<li>
 							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/Envirobed datasheet_Da_Lee.pdf"
-								>Envirobed HA104® High Performance Bedding
-								Mortar</b-link
-							>
+							rel="noopener noreferrer"
+							target="_blank"
+							href="resources/ULTRACRETE INSTABAND ECO (DA-LEE PAVEMENT PRODUCTS LP) - SDS20431.pdf"
+							>Ultracrete Instaband Eco</b-link>
 						</li>
+
 						<li>
 							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/QC10 F datasheet Da-Lee.pdf"
-								>QC10F Rapid Set Flowable Concrete</b-link
-							>
-						</li>
-						<li>
-							<b-link
-								rel="noopener noreferrer"
-								target="_blank"
-								href="/resources/Da-Lee Manhole Installation System.pdf"
-								>Complete Manhole Reinstatement System</b-link
-							>
-						</li>
-						<li>
-							<b-link
-								rel="noreferrer noopener"
-								target="_blank"
-								href="/resources/sds/ULTRACRETE ENVIROBED HA 104 (DA-LEE PAVEMENT PRODUCTS LP) - SDS20432.pdf"
-								>Envirobed HA104® - High Performance Bedding
-								Mortar</b-link
-							>
-						</li>
-						<li>
-							<b-link
-								rel="noreferrer noopener"
-								target="_blank"
-								href="/resources/sds/ULTRACRETE QC10 FLOWABLE (DA-LEE PAVEMENT PRODUCTS LP) - SDS20433.pdf"
-								>Ultracrete QC10 Flowable Concrete</b-link
-							>
+							rel="noopener noreferrer"
+							target="_blank"
+							href="resources/ULTRACRETE QC10 FLOWABLE (DA-LEE PAVEMENT PRODUCTS LP) - SDS20433.pdf"
+							>Ultracrete QC10 Flowable</b-link>
 						</li>
 					</ul>
 				</div>

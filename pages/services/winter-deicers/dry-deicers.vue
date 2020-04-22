@@ -26,7 +26,7 @@
 			<li>More melting power across a wider range of temperatures</li>
 			<li>20 Kilogram bags and 1 Tonne sacs available</li>
 		</ul>
-		<h4>PROTEK PERFORMANCE DEICIER – Highway Heat</h4>
+		<h4>PROTEK PERFORMANCE DEICER – Highway Heat</h4>
 		<ul>
 			<li>
 				Treated with an engineered solution containing unique natural

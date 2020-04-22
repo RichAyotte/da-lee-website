@@ -1,8 +1,7 @@
 <template>
 	<div>
 		<h1><as-title-text /></h1>
-		<h4>For permanent repairs in sidewalks and highways</h4>
-
+		<p>For permanent repairs in sidewalks and highways</p>
 		<ul>
 			<li>Instantly trafficable</li>
 			<li>No waste</li>
@@ -25,7 +24,7 @@
 			rel="noopener noreferrer"
 			target="_blank"
 			href="/resources/sds/Permanent Road Repair_Datasheet_Da_Lee.pdf"
-			>>>> Data & Safety Sheet</b-link
+			>>>> Safety Data Sheet</b-link
 		>
 		<br />
 		<b-link

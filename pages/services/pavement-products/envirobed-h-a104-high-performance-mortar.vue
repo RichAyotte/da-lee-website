@@ -27,7 +27,7 @@
 			rel="noopener noreferrer"
 			target="_blank"
 			href="/resources/sds/Envirobed datasheet_Da_Lee.pdf"
-			>>>> Data & Safety Sheet</b-link
+			>>>> Safety Data Sheet</b-link
 		>
 		<br>
 		<b-link

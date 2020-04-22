@@ -364,7 +364,7 @@ const servicesItems = [
 		}
 	}
 	, {
-		label: `Professional Services`
+		label: `Laboratory Services`
 		, route: `/services/professional-services`
 		, children: professionalServicesItems
 		, imageLaunch: {

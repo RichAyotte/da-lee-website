@@ -14,18 +14,18 @@
 	<li>Can be open to traffic instantly</li>
 	<li>Offers a first time permanent reinstatement</li>
 	<li>Ideal for countries with changeable weather patterns</li>
-	<li>Manholes repaired with this system can br open to traffic within an hour</li>
+	<li>Manholes repaired with this system can be open to traffic within an hour</li>
 	<li>The Installation System boasts a service life of over 5 years, eliminating costly repeat visits</li>
 	<li>No split liability </li>
 	</ul>
 
-	<p>Get it right the first time! <b-link target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=_04b_BYcVAI">Watch the installation >>></b-link> </p>
+	<p>Get it right the first time! <b-link target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=SPFAmIRgV4o">Watch the installation >>></b-link> </p>
 
 		<b-link
 			rel="noopener noreferrer"
 			target="_blank"
 			href="/resources/sds/Da-Lee Manhole Installation System.pdf"
-			>>>> Data & Safety Sheet</b-link
+			>>>> Safety Data Sheet</b-link
 		>
 		<br />
 	<as-product-image />
